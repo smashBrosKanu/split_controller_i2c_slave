@@ -9,9 +9,9 @@
 #define I2C_SDA   0               // GP0 is used for SDA
 #define I2C_SCL   1               // GP1 is used for SCL
 
-#define BUTTON_PIN_1  14
-#define BUTTON_PIN_2  15
-
+// Define the pins for each button
+#define BUTTON_PIN_COUNT 13
+const uint BUTTON_PINS[BUTTON_PIN_COUNT] = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 26, 27 };
 
 uint8_t buttonState = 0;
 uint8_t lastButtonState = 0;
@@ -55,7 +55,8 @@ void requestEvent()
 {
     if (buttonState != lastButtonState)
     {
-        context.mem[0] = buttonState;
+        context.mem[0] = buttonState & 0xff;  // Save the lower byte of buttonState
+        context.mem[1] = (buttonState >> 8) & 0xff;  // Save the upper byte of buttonState
         lastButtonState = buttonState;
     }
 }
@@ -74,23 +75,21 @@ int main()
     i2c_slave_init(i2c0, I2C_SLAVE_ADDRESS, &i2c_slave_handler);
 
     // Button setup
-    gpio_init(BUTTON_PIN_1);
-    gpio_set_dir(BUTTON_PIN_1, GPIO_IN);
-    gpio_pull_up(BUTTON_PIN_1);
-    gpio_init(BUTTON_PIN_2);
-    gpio_set_dir(BUTTON_PIN_2, GPIO_IN);
-    gpio_pull_up(BUTTON_PIN_2);
+    for (int i = 0; i < BUTTON_PIN_COUNT; ++i) {
+        gpio_init(BUTTON_PINS[i]);
+        gpio_set_dir(BUTTON_PINS[i], GPIO_IN);
+        gpio_pull_up(BUTTON_PINS[i]);
+    }
 
     while (true)
     {
         buttonState = 0;
-        if (gpio_get(BUTTON_PIN_1) == 0)
+        for (int i = 0; i < BUTTON_PIN_COUNT; ++i)
         {
-            buttonState |= 1 << 0;
-        }
-        if (gpio_get(BUTTON_PIN_2) == 0)
-        {
-            buttonState |= 1 << 1;
+            if (gpio_get(BUTTON_PINS[i]) == 0)
+            {
+                buttonState |= 1 << i;
+            }
         }
 
         if (buttonState != lastButtonState)
