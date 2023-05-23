@@ -75,6 +75,41 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\error.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c
@@ -563,6 +598,49 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\error.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\dcd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_private.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c
@@ -601,6 +679,47 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\error.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\dcd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c
@@ -639,6 +758,47 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portab
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\error.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\usb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\usb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_irq\include\hardware\irq.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_resets\include\hardware\resets.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\resets.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\resets.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\dcd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c
@@ -749,6 +909,48 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\error.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb_option.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_private.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\common\pico_sync\critical_section.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\critical_section.c
@@ -2351,7 +2553,16 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_st
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_bootrom\include\pico\bootrom.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb\reset_interface.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_usb_reset_interface\include\pico\usb_reset_interface.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_watchdog\include\hardware\watchdog.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\watchdog.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\watchdog.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c
@@ -2426,10 +2637,99 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_st
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include\pico\binary_info.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include\pico\binary_info\defs.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include\pico\binary_info\structure.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include\pico\binary_info\code.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio\driver.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_irq\include\hardware\irq.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdbool.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdint.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdint.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_default_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\features.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_newlib_version.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_intsup.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_stdint.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stddef.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\newlib.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\config.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\ieeefp.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\_ansi.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\cdefs.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb_option.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\tusb_config.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\assert.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\assert.h"
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: generated\pico_base\pico\version.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\config.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: generated\pico_base\pico\config_autogen.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\boards\include\boards\pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\cmsis\include\cmsis\rename_exceptions.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_platform\include\pico\platform.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\addressmap.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\error.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb\reset_interface.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_usb_reset_interface\include\pico\usb_reset_interface.h
+CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb_descriptors.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_unique_id\include\pico\unique_id.h
 
 
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdlib\stdlib.c
@@ -2637,6 +2937,7 @@ CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\uart.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\uart.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb.h
+CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\c++\12.2.1\cstdio"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdio.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\reent.h"
@@ -2645,10 +2946,37 @@ CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolch
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\stdio.h"
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_locale.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h"
 CMakeFiles\your_project.dir\main.cpp.obj: "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\string.h"
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb_option.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\tusb_config.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_compiler.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_verify.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_types.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h
 
 
 
@@ -2656,13 +2984,13 @@ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.c:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\audio\audio_device.c:
 
-"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdint.h":
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c:
-
 C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\usb.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\config.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\usbtmc\usbtmc_device.c:
+
+"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdint.h":
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\features.h":
 
@@ -2688,6 +3016,8 @@ C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico.h:
 
 generated\pico_base\pico\config_autogen.h:
 
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.h:
+
 C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\intctrl.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\tusb_config.h:
@@ -2702,15 +3032,19 @@ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\uar
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio.h:
 
+C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h:
+
+C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h:
+
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\_types.h":
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_mcu.h:
 
-C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\lock_core.h:
+C:\Users\kanuk\clone\pico-sdk\src\common\pico_util\datetime.c:
 
-C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\sio.h:
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\types.h":
 
@@ -2732,6 +3066,8 @@ C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\assert.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\lib\gcc\arm-none-eabi\12.2.1\include\stdarg.h":
 
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_pvt.h:
+
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\config.h":
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\stdint.h":
@@ -2752,21 +3088,11 @@ generated\pico_base\pico\version.h:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal.h:
 
-C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_double\double_init_rom.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c:
-
 C:\Users\kanuk\clone\pico-sdk\src\boards\include\boards\pico.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\cmsis\include\cmsis\rename_exceptions.h:
 
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c:
-
 C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\platform_defs.h:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\video\video_device.c:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\interp.h:
 
@@ -2774,21 +3100,7 @@ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\add
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\cdefs.h":
 
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c:
-
-"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\c++\12.2.1\arm-none-eabi\thumb\v6-m\nofp\bits\os_defines.h":
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c:
-
-C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c:
-
-C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_vreg\vreg.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c:
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_double\double_math.c:
 
@@ -2796,13 +3108,13 @@ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_common.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\string.h":
 
-C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h:
-
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_types.h":
 
-C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h:
+C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\timer.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\lock.h":
+
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_timer\include\hardware\timer.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\strings.h":
 
@@ -2822,21 +3134,15 @@ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_timeout.h:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_debug.h:
 
-C:\Users\kanuk\clone\pico-sdk\src\common\pico_util\datetime.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\osal\osal_pico.h:
-
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_time\include\pico\time.h:
-
-C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_irq\irq.c:
-
-C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h:
-
-C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_base\include\hardware\address_mapped.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include\pico\binary_info\defs.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\sem.h:
+
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_irq\irq.c:
+
+C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\timer.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\sys\_timespec.h":
 
@@ -2846,25 +3152,57 @@ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dre
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_sync\include\hardware\sync.h:
 
+"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\c++\12.2.1\cstdio":
+
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\mutex.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\include\pico\critical_section.h:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.h:
 
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc_device.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\cdc\cdc.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\dfu\dfu_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\dfu\dfu_rt_device.c:
+
+"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\c++\12.2.1\arm-none-eabi\thumb\v6-m\nofp\bits\os_defines.h":
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_malloc\pico_malloc.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\midi\midi_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_double\double_init_rom.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\msc\msc_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_private.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\net\ncm_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\vendor\vendor_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\video\video_device.c:
+
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_vreg\vreg.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\common\tusb_fifo.c:
+
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd.c:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\dcd.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\device\usbd_control.c:
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\dcd_rp2040.c:
-
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c:
-
-C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\sem.c:
-
-"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\stdlib.h":
-
-"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\alloca.h":
 
 C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.h:
 
@@ -2883,6 +3221,14 @@ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0p
 C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\resets.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\resets.h:
+
+C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\portable\raspberrypi\rp2040\rp2040_usb.c:
+
+C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\sem.c:
+
+"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\machine\stdlib.h":
+
+"C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\alloca.h":
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\critical_section.c:
 
@@ -3092,9 +3438,9 @@ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio\drive
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\reset_interface.c:
 
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\tusb.h:
+C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include\pico\stdio_usb\reset_interface.h:
 
-C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src\class\hid\hid.h:
+C:\Users\kanuk\clone\pico-sdk\src\common\pico_usb_reset_interface\include\pico\usb_reset_interface.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\stdio_usb.c:
 

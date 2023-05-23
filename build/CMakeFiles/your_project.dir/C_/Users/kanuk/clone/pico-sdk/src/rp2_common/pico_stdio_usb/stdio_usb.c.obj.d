@@ -71,4 +71,16 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_st
  C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/osal/osal.h \
  C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/common/tusb_fifo.h \
  C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/class/hid/hid.h \
- C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/device/usbd.h \
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/class/cdc/cdc_device.h \
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/class/cdc/cdc.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb.h \
+ C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include/pico/binary_info.h \
+ C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/defs.h \
+ C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/structure.h \
+ C:\Users\kanuk\clone\pico-sdk\src\common\pico_binary_info\include/pico/binary_info/code.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio\include/pico/stdio/driver.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_irq\include/hardware/irq.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/intctrl.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/m0plus.h \
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/device/usbd_pvt.h

@@ -23,7 +23,6 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
 # The include file search paths:
 set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "C:/Users/kanuk/i2c_slave/i2c_slave/include"
-  "/path/to/tinyusb/include"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/boot_stage2/asminclude"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2040/hardware_regs/include"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_base/include"

@@ -71,4 +71,13 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_st
  C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/osal/osal.h \
  C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/common/tusb_fifo.h \
  C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/class/hid/hid.h \
- C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_bootrom\include/pico/bootrom.h
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/device/usbd.h \
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/class/cdc/cdc_device.h \
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/class/cdc/cdc.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_bootrom\include/pico/bootrom.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio_usb\include/pico/stdio_usb/reset_interface.h \
+ C:\Users\kanuk\clone\pico-sdk\src\common\pico_usb_reset_interface\include/pico/usb_reset_interface.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_watchdog\include/hardware/watchdog.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include/hardware/structs/watchdog.h \
+ C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include/hardware/regs/watchdog.h \
+ C:\Users\kanuk\clone\pico-sdk\lib\tinyusb\src/device/usbd_pvt.h

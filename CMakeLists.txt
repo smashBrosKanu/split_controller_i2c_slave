@@ -2,7 +2,6 @@ cmake_minimum_required(VERSION 3.13)
 
 include(pico_sdk_import.cmake)
 include_directories(${CMAKE_SOURCE_DIR}/i2c_slave/include)
-include_directories(/path/to/tinyusb/include)
 
 project(your_project)
 
@@ -12,6 +11,8 @@ add_executable(your_project
     main.cpp
 )
 
+add_dependencies(your_project tinyusb_device)
+
 pico_enable_stdio_usb(your_project 1)
 pico_enable_stdio_uart(your_project 0)
 
@@ -19,7 +20,6 @@ target_link_libraries(your_project
     pico_stdlib
     hardware_i2c
     i2c_slave
-    tinyusb_device
 )
 
 add_subdirectory(i2c_slave)
