@@ -10,16 +10,17 @@
 #define I2C_SCL   1               // GP1 is used for SCL
 
 // Define the pins for each button
-#define BUTTON_PIN_COUNT 13
-const uint BUTTON_PINS[BUTTON_PIN_COUNT] = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 14, 15, 26, 27 };
+#define BUTTON_PIN_COUNT 24
+const uint BUTTON_PINS[BUTTON_PIN_COUNT] = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 26, 27, 28 };
 
-uint8_t buttonState = 0;
-uint8_t lastButtonState = 0;
+uint32_t buttonState = 0;
+uint32_t lastButtonState = 0;
 
 static struct
 {
     uint8_t mem[256];
     uint8_t mem_address;
+    uint8_t num;
     bool mem_address_written;
 } context;
 
@@ -40,8 +41,15 @@ static void i2c_slave_handler(i2c_inst_t* i2c, i2c_slave_event_t event) {
         }
         break;
     case I2C_SLAVE_REQUEST: // master is requesting data
-        // load from memory
-        i2c_write_byte(i2c, context.mem[0]);
+        i2c_write_byte(i2c, context.mem[context.num]);
+        context.num++;
+        if(context.num > 3)
+        {
+            context.num = 0;
+        }
+        //i2c_write_byte(i2c, context.mem[1]);
+        //i2c_write_byte(i2c, context.mem[2]);
+        //i2c_write_byte(i2c, context.mem[3]);
         break;
     case I2C_SLAVE_FINISH: // master has signalled Stop / Restart
         context.mem_address_written = false;
@@ -55,8 +63,10 @@ void requestEvent()
 {
     if (buttonState != lastButtonState)
     {
-        context.mem[0] = buttonState & 0xff;  // Save the lower byte of buttonState
-        context.mem[1] = (buttonState >> 8) & 0xff;  // Save the upper byte of buttonState
+        context.mem[0] = buttonState & 0xff;
+        context.mem[1] = (buttonState >> 8) & 0xff;
+        context.mem[2] = (buttonState >> 16) & 0xff;
+        context.mem[3] = (buttonState >> 24) & 0xff;
         lastButtonState = buttonState;
     }
 }
@@ -92,9 +102,15 @@ int main()
             }
         }
 
+
+
         if (buttonState != lastButtonState)
         {
-            requestEvent();
+            context.mem[0] = buttonState & 0xff;
+            context.mem[1] = (buttonState >> 8) & 0xff;
+            context.mem[2] = (buttonState >> 16) & 0xff;
+            context.mem[3] = (buttonState >> 24) & 0xff;
+            lastButtonState = buttonState;
             // Add the following lines:
             printf("Button 1 state: %s\n", (buttonState & (1 << 0)) ? "Pressed" : "Released");
             printf("Button 2 state: %s\n", (buttonState & (1 << 1)) ? "Pressed" : "Released");

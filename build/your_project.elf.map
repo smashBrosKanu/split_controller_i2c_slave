@@ -1185,9 +1185,9 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
  .text.i2c_slave_deinit
                 0x00000000       0x60 CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
- .text          0x00000000        0x0 C:\Users\kanuk\AppData\Local\Temp\ccGqSMUj.o
- .data          0x00000000        0x0 C:\Users\kanuk\AppData\Local\Temp\ccGqSMUj.o
- .bss           0x00000000        0x0 C:\Users\kanuk\AppData\Local\Temp\ccGqSMUj.o
+ .text          0x00000000        0x0 C:\Users\kanuk\AppData\Local\Temp\cciVAtMO.o
+ .data          0x00000000        0x0 C:\Users\kanuk\AppData\Local\Temp\cciVAtMO.o
+ .bss           0x00000000        0x0 C:\Users\kanuk\AppData\Local\Temp\cciVAtMO.o
  .data          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .bss           0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .text          0x00000000        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-calloc.o)
@@ -1379,11 +1379,11 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
 .boot2          0x10000000      0x100
                 0x10000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x10000000      0x100 C:\Users\kanuk\AppData\Local\Temp\ccGqSMUj.o
+ .boot2         0x10000000      0x100 C:\Users\kanuk\AppData\Local\Temp\cciVAtMO.o
                 0x10000100                __boot2_end__ = .
                 0x00000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
-.text           0x10000100     0x75d0
+.text           0x10000100     0x75e0
                 0x10000100                __logical_binary_start = .
  *(.vectors)
  .vectors       0x10000100       0xd4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
@@ -1448,666 +1448,667 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
  .text.frame_dummy
                 0x100002e4       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
  .text._ZL17i2c_slave_handlerP8i2c_inst17i2c_slave_event_t
-                0x10000308       0x58 CMakeFiles/your_project.dir/main.cpp.obj
+                0x10000308       0x6c CMakeFiles/your_project.dir/main.cpp.obj
  .text.startup.main
-                0x10000360      0x144 CMakeFiles/your_project.dir/main.cpp.obj
-                0x10000360                main
+                0x10000374      0x13c CMakeFiles/your_project.dir/main.cpp.obj
+                0x10000374                main
  .text.gpio_set_function
-                0x100004a4       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x100004a4                gpio_set_function
+                0x100004b0       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x100004b0                gpio_set_function
  .text.gpio_set_pulls
-                0x100004d4       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x100004d4                gpio_set_pulls
+                0x100004e0       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x100004e0                gpio_set_pulls
  .text.gpio_init
-                0x100004f8       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x100004f8                gpio_init
+                0x10000504       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x10000504                gpio_init
  .text.running_on_fpga
-                0x10000534       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
-                0x10000534                running_on_fpga
+                0x10000540       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                0x10000540                running_on_fpga
  .text.hw_claim_or_assert
-                0x10000544       0x44 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x10000544                hw_claim_or_assert
+                0x10000550       0x44 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x10000550                hw_claim_or_assert
  .text.hw_claim_unused_from_range
-                0x10000588       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x10000588                hw_claim_unused_from_range
+                0x10000594       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x10000594                hw_claim_unused_from_range
  .text.spin_locks_reset
-                0x10000624       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x10000624                spin_locks_reset
+                0x10000630       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x10000630                spin_locks_reset
  .text.next_striped_spin_lock_num
-                0x10000640       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x10000640                next_striped_spin_lock_num
+                0x1000064c       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x1000064c                next_striped_spin_lock_num
  .text.spin_lock_claim_unused
-                0x10000658       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x10000658                spin_lock_claim_unused
+                0x10000664       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x10000664                spin_lock_claim_unused
  .text.irq_set_enabled
-                0x1000067c       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x1000067c                irq_set_enabled
+                0x10000688       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x10000688                irq_set_enabled
  .text.irq_set_pending
-                0x100006a0       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x100006a0                irq_set_pending
+                0x100006ac       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x100006ac                irq_set_pending
  .text.irq_has_shared_handler
-                0x100006b0       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x100006b0                irq_has_shared_handler
+                0x100006bc       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x100006bc                irq_has_shared_handler
  .text.irq_get_vtable_handler
-                0x100006dc       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x100006dc                irq_get_vtable_handler
+                0x100006e8       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x100006e8                irq_get_vtable_handler
  .text.irq_set_exclusive_handler
-                0x100006ec       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x100006ec                irq_set_exclusive_handler
+                0x100006f8       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x100006f8                irq_set_exclusive_handler
  .text.irq_add_shared_handler
-                0x10000740      0x1f4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x10000740                irq_add_shared_handler
+                0x1000074c      0x1f4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x1000074c                irq_add_shared_handler
  .text.irq_remove_handler
-                0x10000934      0x1c4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x10000934                irq_remove_handler
+                0x10000940      0x1c4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x10000940                irq_remove_handler
  .text.irq_add_tail_to_free_list
-                0x10000af8       0xb4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x10000af8                irq_add_tail_to_free_list
+                0x10000b04       0xb4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x10000b04                irq_add_tail_to_free_list
  .text.irq_init_priorities
-                0x10000bac       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x10000bac                irq_init_priorities
+                0x10000bb8       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x10000bb8                irq_init_priorities
  .text.user_irq_claim_unused
-                0x10000bd0       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x10000bd0                user_irq_claim_unused
+                0x10000bdc       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x10000bdc                user_irq_claim_unused
  .text.lock_init
-                0x10000bfc       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/lock_core.c.obj
-                0x10000bfc                lock_init
+                0x10000c08       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                0x10000c08                lock_init
  .text.mutex_init
-                0x10000c0c       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x10000c0c                mutex_init
+                0x10000c18       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x10000c18                mutex_init
  .text.recursive_mutex_init
-                0x10000c28       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x10000c28                recursive_mutex_init
+                0x10000c34       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x10000c34                recursive_mutex_init
  .text.critical_section_init
-                0x10000c44       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/critical_section.c.obj
-                0x10000c44                critical_section_init
+                0x10000c50       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/critical_section.c.obj
+                0x10000c50                critical_section_init
  .text.critical_section_init_with_lock_num
-                0x10000c60       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/critical_section.c.obj
-                0x10000c60                critical_section_init_with_lock_num
+                0x10000c6c       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/critical_section.c.obj
+                0x10000c6c                critical_section_init_with_lock_num
  .text.timer_pool_entry_comparator
-                0x10000c74       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10000c74                timer_pool_entry_comparator
+                0x10000c80       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10000c80                timer_pool_entry_comparator
  .text.sleep_until_callback
-                0x10000ca8       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10000cb4       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
  .text.add_alarm_under_lock.isra.0
-                0x10000cd8      0x100 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10000ce4      0x100 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_alarm_callback
-                0x10000dd8      0x1bc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10000de4      0x1bc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_init_default
-                0x10000f94       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10000f94                alarm_pool_init_default
+                0x10000fa0       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10000fa0                alarm_pool_init_default
  .text.alarm_pool_get_default
-                0x10001000        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10001000                alarm_pool_get_default
+                0x1000100c        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x1000100c                alarm_pool_get_default
  .text.alarm_pool_add_alarm_at
-                0x10001008      0x188 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10001008                alarm_pool_add_alarm_at
+                0x10001014      0x188 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10001014                alarm_pool_add_alarm_at
  .text.alarm_pool_cancel_alarm
-                0x10001190       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10001190                alarm_pool_cancel_alarm
+                0x1000119c       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x1000119c                alarm_pool_cancel_alarm
  .text.alarm_pool_core_num
-                0x100011fc        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x100011fc                alarm_pool_core_num
+                0x10001208        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x10001208                alarm_pool_core_num
  .text.best_effort_wfe_or_timeout
-                0x10001200       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10001200                best_effort_wfe_or_timeout
+                0x1000120c       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x1000120c                best_effort_wfe_or_timeout
  .text.hardware_alarm_irq_handler
-                0x10001278       0xbc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x10001284       0xbc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text.hardware_alarm_claim
-                0x10001334       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x10001334                hardware_alarm_claim
+                0x10001340       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x10001340                hardware_alarm_claim
  .text.time_us_64
-                0x1000134c       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x1000134c                time_us_64
+                0x10001358       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x10001358                time_us_64
  .text.busy_wait_us
-                0x10001360       0x68 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x10001360                busy_wait_us
+                0x1000136c       0x68 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x1000136c                busy_wait_us
  .text.hardware_alarm_set_callback
-                0x100013c8       0x8c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x100013c8                hardware_alarm_set_callback
+                0x100013d4       0x8c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x100013d4                hardware_alarm_set_callback
  .text.hardware_alarm_set_target
-                0x10001454       0xdc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x10001454                hardware_alarm_set_target
+                0x10001460       0xdc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x10001460                hardware_alarm_set_target
  .text.hardware_alarm_cancel
-                0x10001530       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x10001530                hardware_alarm_cancel
+                0x1000153c       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x1000153c                hardware_alarm_cancel
  .text.ph_merge_nodes
-                0x1000156c       0x64 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x10001578       0x64 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_post_alloc_init
-                0x100015d0       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x100015d0                ph_post_alloc_init
+                0x100015dc       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x100015dc                ph_post_alloc_init
  .text.ph_merge_two_pass
-                0x1000160c       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x1000160c                ph_merge_two_pass
+                0x10001618       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x10001618                ph_merge_two_pass
  .text.ph_remove_any_head
-                0x100016a4      0x100 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x100016b0      0x100 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_remove_head
-                0x100017a4      0x104 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x100017a4                ph_remove_head
+                0x100017b0      0x104 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x100017b0                ph_remove_head
  .text.ph_remove_and_free_node
-                0x100018a8       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x100018a8                ph_remove_and_free_node
+                0x100018b4       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x100018b4                ph_remove_and_free_node
  .text.clocks_init
-                0x10001920      0x2b4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x10001920                clocks_init
+                0x1000192c      0x2b4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x1000192c                clocks_init
  .text.clock_get_hz
-                0x10001bd4        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x10001bd4                clock_get_hz
+                0x10001be0        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x10001be0                clock_get_hz
  .text.pll_init
-                0x10001be0       0xa8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
-                0x10001be0                pll_init
+                0x10001bec       0xa8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                0x10001bec                pll_init
  .text.watchdog_start_tick
-                0x10001c88       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                0x10001c88                watchdog_start_tick
+                0x10001c94       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x10001c94                watchdog_start_tick
  .text.watchdog_reboot
-                0x10001c98       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                0x10001c98                watchdog_reboot
+                0x10001ca4       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x10001ca4                watchdog_reboot
  .text.xosc_init
-                0x10001d34       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
-                0x10001d34                xosc_init
+                0x10001d40       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                0x10001d40                xosc_init
  .text.runtime_init
-                0x10001d5c       0xf0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x10001d5c                runtime_init
- .text._exit    0x10001e4c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x10001e4c                _exit
- .text._sbrk    0x10001e50       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x10001e50                _sbrk
- .text.exit     0x10001e84        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x10001e84                exit
- .text.panic    0x10001e8c       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x10001e8c                panic
+                0x10001d68       0xf0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x10001d68                runtime_init
+ .text._exit    0x10001e58        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x10001e58                _exit
+ .text._sbrk    0x10001e5c       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x10001e5c                _sbrk
+ .text.exit     0x10001e90        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x10001e90                exit
+ .text.panic    0x10001e98       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x10001e98                panic
  .text.hard_assertion_failure
-                0x10001ebc        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x10001ebc                hard_assertion_failure
+                0x10001ec8        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x10001ec8                hard_assertion_failure
  .text._out_null
-                0x10001ec8        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x10001ed4        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_rev
-                0x10001ecc       0x90 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x10001ed8       0x90 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ntoa_format
-                0x10001f5c      0x1f4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x10001f68      0x1f4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_char
-                0x10002150       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x1000215c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_fct
-                0x10002160       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .text._etoa    0x10002170      0x454 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .text._ftoa    0x100025c4      0x3c4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x1000216c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .text._etoa    0x1000217c      0x454 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .text._ftoa    0x100025d0      0x3c4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._vsnprintf
-                0x10002988      0xb24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x10002994      0xb24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text.vfctprintf
-                0x100034ac       0x20 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                0x100034ac                vfctprintf
+                0x100034b8       0x20 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x100034b8                vfctprintf
  .text.weak_raw_vprintf
-                0x100034cc       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                0x100034cc                weak_raw_vprintf
- .text          0x100034fc       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x100034d8       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x100034d8                weak_raw_vprintf
+ .text          0x10003508       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .text.rom_func_lookup
-                0x1000350c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x1000350c                rom_func_lookup
+                0x10003518       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x10003518                rom_func_lookup
  .text.rom_data_lookup
-                0x1000351c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x1000351c                rom_data_lookup
+                0x10003528       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x10003528                rom_data_lookup
  .text.rom_funcs_lookup
-                0x1000352c       0x44 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x1000352c                rom_funcs_lookup
+                0x10003538       0x44 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x10003538                rom_funcs_lookup
  .text.__wrap___aeabi_idiv
-                0x10003570       0x50 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x10003570                __wrap___aeabi_idivmod
-                0x10003570                divmod_s32s32
-                0x10003570                div_s32s32
-                0x10003570                __wrap___aeabi_idiv
-                0x10003578                divmod_s32s32_unsafe
-                0x100035a4                divmod_s32s32_savestate
+                0x1000357c       0x50 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x1000357c                __wrap___aeabi_idivmod
+                0x1000357c                divmod_s32s32
+                0x1000357c                div_s32s32
+                0x1000357c                __wrap___aeabi_idiv
+                0x10003584                divmod_s32s32_unsafe
+                0x100035b0                divmod_s32s32_savestate
  .text.__wrap___aeabi_uidiv
-                0x100035c0       0x4c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x100035c0                __wrap___aeabi_uidiv
-                0x100035c0                __wrap___aeabi_uidivmod
-                0x100035c0                div_u32u32
-                0x100035c0                divmod_u32u32
-                0x100035c8                divmod_u32u32_unsafe
-                0x100035f0                divmod_u32u32_savestate
+                0x100035cc       0x4c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x100035cc                __wrap___aeabi_uidiv
+                0x100035cc                __wrap___aeabi_uidivmod
+                0x100035cc                div_u32u32
+                0x100035cc                divmod_u32u32
+                0x100035d4                divmod_u32u32_unsafe
+                0x100035fc                divmod_u32u32_savestate
  .text.__wrap___aeabi_ldiv
-                0x1000360c      0x424 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x1000360c                div_s64s64
-                0x1000360c                divmod_s64s64
-                0x1000360c                __wrap___aeabi_ldivmod
-                0x1000363c                divmod_u64u64
-                0x1000363c                div_u64u64
-                0x1000363c                __wrap___aeabi_uldivmod
-                0x1000364c                divmod_u64u64_savestate
-                0x1000366c                divmod_s64s64_unsafe
-                0x100036f4                divmod_u64u64_unsafe
+                0x10003618      0x424 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x10003618                div_s64s64
+                0x10003618                divmod_s64s64
+                0x10003618                __wrap___aeabi_ldivmod
+                0x10003648                divmod_u64u64
+                0x10003648                div_u64u64
+                0x10003648                __wrap___aeabi_uldivmod
+                0x10003658                divmod_u64u64_savestate
+                0x10003678                divmod_s64s64_unsafe
+                0x10003700                divmod_u64u64_unsafe
  .text.__wrap___aeabi_darithmetic
-                0x10003a30       0x80 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003a30                __wrap___aeabi_drsub
-                0x10003a36                __wrap___aeabi_dsub
-                0x10003a48                __wrap___aeabi_dadd
-                0x10003a5a                __wrap___aeabi_ddiv
-                0x10003a96                __wrap___aeabi_dmul
+                0x10003a3c       0x80 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003a3c                __wrap___aeabi_drsub
+                0x10003a42                __wrap___aeabi_dsub
+                0x10003a54                __wrap___aeabi_dadd
+                0x10003a66                __wrap___aeabi_ddiv
+                0x10003aa2                __wrap___aeabi_dmul
  .text.__wrap___aeabi_cdcmple
-                0x10003ab0       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003ab0                __wrap___aeabi_cdrcmple
-                0x10003ac0                __wrap___aeabi_cdcmpeq
-                0x10003ac0                __wrap___aeabi_cdcmple
+                0x10003abc       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003abc                __wrap___aeabi_cdrcmple
+                0x10003acc                __wrap___aeabi_cdcmpeq
+                0x10003acc                __wrap___aeabi_cdcmple
  .text.__wrap___aeabi_dcmplt
-                0x10003b1c        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003b1c                __wrap___aeabi_dcmplt
+                0x10003b28        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003b28                __wrap___aeabi_dcmplt
  .text.__wrap___aeabi_dcmpge
-                0x10003b28       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003b28                __wrap___aeabi_dcmpge
+                0x10003b34       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003b34                __wrap___aeabi_dcmpge
  .text.__wrap___aeabi_dcmpgt
-                0x10003b38        0xa CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003b38                __wrap___aeabi_dcmpgt
+                0x10003b44        0xa CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003b44                __wrap___aeabi_dcmpgt
  .text.__wrap___aeabi_dcmpun
-                0x10003b42       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003b42                __wrap___aeabi_dcmpun
- *fill*         0x10003b5e        0x2 
+                0x10003b4e       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003b4e                __wrap___aeabi_dcmpun
+ *fill*         0x10003b6a        0x2 
  .text.__wrap___aeabi_i2d
-                0x10003b60       0x38 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003b60                __wrap___aeabi_ui2d
-                0x10003b68                __wrap___aeabi_i2d
+                0x10003b6c       0x38 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003b6c                __wrap___aeabi_ui2d
+                0x10003b74                __wrap___aeabi_i2d
  .text.__wrap___aeabi_d2iz
-                0x10003b98       0x48 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003b98                double2int_z
-                0x10003b98                __wrap___aeabi_d2iz
+                0x10003ba4       0x48 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003ba4                double2int_z
+                0x10003ba4                __wrap___aeabi_d2iz
  .text.__wrap___aeabi_d2uiz
-                0x10003be0       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x10003be0                __wrap___aeabi_d2uiz
-                0x10003be0                double2uint
+                0x10003bec       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x10003bec                __wrap___aeabi_d2uiz
+                0x10003bec                double2uint
  .text.__aeabi_double_init
-                0x10003bf8       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x10003bf8                __aeabi_double_init
+                0x10003c04       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x10003c04                __aeabi_double_init
  .text.double_table_shim_on_use_helper
-                0x10003c90       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10003c90                double_table_shim_on_use_helper
+                0x10003c9c       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10003c9c                double_table_shim_on_use_helper
  .text.__wrap___aeabi_dsub
-                0x10003cbc       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10003cbc                drsub_shim
-                0x10003cc2                dsub_shim
+                0x10003cc8       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10003cc8                drsub_shim
+                0x10003cce                dsub_shim
  .text.dadd_shim
-                0x10003ccc      0x15c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10003ccc                dadd_shim
+                0x10003cd8      0x15c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10003cd8                dadd_shim
  .text.dmul_shim
-                0x10003e28      0x15c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10003e28                dmul_shim
+                0x10003e34      0x15c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10003e34                dmul_shim
  .text.ddiv_shim
-                0x10003f84      0x1b0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10003f84                ddiv_shim
+                0x10003f90      0x1b0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10003f90                ddiv_shim
  .text.double2uint_shim
-                0x10004134        0xe CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10004134                double2uint_shim
-                0x10004136                double2ufix_shim
- *fill*         0x10004142        0x2 
+                0x10004140        0xe CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10004140                double2uint_shim
+                0x10004142                double2ufix_shim
+ *fill*         0x1000414e        0x2 
  .text.double2uint64_shim
-                0x10004144       0x70 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x10004144                double2uint64_shim
-                0x10004146                double2ufix64_shim
-                0x10004166                d2fix_a
+                0x10004150       0x70 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x10004150                double2uint64_shim
+                0x10004152                double2ufix64_shim
+                0x10004172                d2fix_a
  .text.dunpacks
-                0x100041b4       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x100041b4                dunpacks
+                0x100041c0       0x3c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x100041c0                dunpacks
  .text.__aeabi_lmul
-                0x100041f0       0x32 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
-                0x100041f0                __wrap___aeabi_lmul
- *fill*         0x10004222        0x2 
+                0x100041fc       0x32 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                0x100041fc                __wrap___aeabi_lmul
+ *fill*         0x1000422e        0x2 
  .text.__aeabi_float_init
-                0x10004224       0x64 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                0x10004224                __aeabi_float_init
+                0x10004230       0x64 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                0x10004230                __aeabi_float_init
  .text.float_table_shim_on_use_helper
-                0x10004288       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
-                0x10004288                float_table_shim_on_use_helper
- .text          0x100042b4       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x100042b4                __aeabi_mem_init
- .text.memset   0x100042c4        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x100042c4                __wrap_memset
- .text.memcpy   0x100042d0        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x100042d0                __wrap_memcpy
-                0x100042d0                __wrap___aeabi_memcpy
+                0x10004294       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                0x10004294                float_table_shim_on_use_helper
+ .text          0x100042c0       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x100042c0                __aeabi_mem_init
+ .text.memset   0x100042d0        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x100042d0                __wrap_memset
+ .text.memcpy   0x100042dc        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x100042dc                __wrap_memcpy
+                0x100042dc                __wrap___aeabi_memcpy
  .text.stdio_out_chars_crlf
-                0x100042dc       0xbc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100042e8       0xbc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_buffered_printer
-                0x10004398       0x64 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100043a4       0x64 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.__wrap_putchar
-                0x100043fc       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100043fc                __wrap_putchar
+                0x10004408       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x10004408                __wrap_putchar
  .text.__wrap_puts
-                0x10004494       0xe0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x10004494                __wrap_puts
- .text._read    0x10004574       0x94 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x10004574                _read
- .text._write   0x10004608       0xb4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x10004608                _write
- .text._close   0x100046bc        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100046bc                _close
- .text._lseek   0x100046c4        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100046c4                _lseek
+                0x100044a0       0xe0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100044a0                __wrap_puts
+ .text._read    0x10004580       0x94 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x10004580                _read
+ .text._write   0x10004614       0xb4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x10004614                _write
+ .text._close   0x100046c8        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100046c8                _close
+ .text._lseek   0x100046d0        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100046d0                _lseek
  .text.stdio_set_driver_enabled
-                0x100046cc       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100046cc                stdio_set_driver_enabled
+                0x100046d8       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100046d8                stdio_set_driver_enabled
  .text.__wrap_vprintf
-                0x100046fc       0xd4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100046fc                __wrap_vprintf
+                0x10004708       0xd4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x10004708                __wrap_vprintf
  .text.__wrap_printf
-                0x100047d0       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100047d0                __wrap_printf
+                0x100047dc       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100047dc                __wrap_printf
  .text.stdio_init_all
-                0x100047e8        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x100047e8                stdio_init_all
+                0x100047f4        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x100047f4                stdio_init_all
  .text.resetd_init
-                0x100047f0        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x100047fc        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_reset
-                0x100047f4        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x10004800        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_open
-                0x10004800       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x1000480c       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_xfer_cb
-                0x10004828        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x10004834        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_control_xfer_cb
-                0x1000482c       0x60 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x10004838       0x60 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.usbd_app_driver_get_cb
-                0x1000488c        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-                0x1000488c                usbd_app_driver_get_cb
+                0x10004898        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x10004898                usbd_app_driver_get_cb
  .text.tud_cdc_line_coding_cb
-                0x10004898       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
-                0x10004898                tud_cdc_line_coding_cb
+                0x100048a4       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x100048a4                tud_cdc_line_coding_cb
  .text.stdio_usb_set_chars_available_callback
-                0x100048cc       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x100048cc                stdio_usb_set_chars_available_callback
- .text.usb_irq  0x100048e0       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x100048d8       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x100048d8                stdio_usb_set_chars_available_callback
+ .text.usb_irq  0x100048ec       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.timer_task
-                0x100048f0       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x100048fc       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.stdio_usb_in_chars
-                0x10004944       0x90 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x10004944                stdio_usb_in_chars
+                0x10004950       0x90 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10004950                stdio_usb_in_chars
  .text.stdio_usb_out_chars
-                0x100049d4      0x104 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x100049e0      0x104 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.low_priority_worker_irq
-                0x10004ad8       0xa8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10004ae4       0xa8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .text.tud_cdc_rx_cb
-                0x10004b80       0x20 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x10004b80                tud_cdc_rx_cb
+                0x10004b8c       0x20 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10004b8c                tud_cdc_rx_cb
  .text.stdio_usb_init
-                0x10004ba0       0xe0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x10004ba0                stdio_usb_init
+                0x10004bac       0xe0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10004bac                stdio_usb_init
  .text.tud_descriptor_device_cb
-                0x10004c80        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                0x10004c80                tud_descriptor_device_cb
+                0x10004c8c        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x10004c8c                tud_descriptor_device_cb
  .text.tud_descriptor_configuration_cb
-                0x10004c88        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                0x10004c88                tud_descriptor_configuration_cb
+                0x10004c94        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x10004c94                tud_descriptor_configuration_cb
  .text.tud_descriptor_string_cb
-                0x10004c90       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
-                0x10004c90                tud_descriptor_string_cb
+                0x10004c9c       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x10004c9c                tud_descriptor_string_cb
  .text.startup._retrieve_unique_id_on_boot
-                0x10004d08       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x10004d14       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
  .text.pico_get_unique_board_id_string
-                0x10004d18      0x1a8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
-                0x10004d18                pico_get_unique_board_id_string
+                0x10004d24      0x1a8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+                0x10004d24                pico_get_unique_board_id_string
  .text.flash_get_unique_id
-                0x10004ec0       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
-                0x10004ec0                flash_get_unique_id
+                0x10004ecc       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+                0x10004ecc                flash_get_unique_id
  .text.dcd_int_enable
-                0x10004f00        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10004f00                dcd_int_enable
+                0x10004f0c        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10004f0c                dcd_int_enable
  .text.dcd_set_address
-                0x10004f0c       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10004f0c                dcd_set_address
+                0x10004f18       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10004f18                dcd_set_address
  .text.dcd_connect
-                0x10004f20       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10004f20                dcd_connect
+                0x10004f2c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10004f2c                dcd_connect
  .text.dcd_init
-                0x10004f30       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10004f30                dcd_init
+                0x10004f3c       0x98 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10004f3c                dcd_init
  .text.dcd_edpt0_status_complete
-                0x10004fc8       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10004fc8                dcd_edpt0_status_complete
+                0x10004fd4       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10004fd4                dcd_edpt0_status_complete
  .text.dcd_edpt_open
-                0x10004fe4      0x108 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10004fe4                dcd_edpt_open
+                0x10004ff0      0x108 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10004ff0                dcd_edpt_open
  .text.dcd_edpt_close_all
-                0x100050ec        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x100050ec                dcd_edpt_close_all
+                0x100050f8        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x100050f8                dcd_edpt_close_all
  .text.dcd_edpt_xfer
-                0x100050f4       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x100050f4                dcd_edpt_xfer
+                0x10005100       0x24 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10005100                dcd_edpt_xfer
  .text.dcd_edpt_stall
-                0x10005118       0x38 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10005118                dcd_edpt_stall
+                0x10005124       0x38 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10005124                dcd_edpt_stall
  .text.dcd_edpt_clear_stall
-                0x10005150       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
-                0x10005150                dcd_edpt_clear_stall
+                0x1000515c       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x1000515c                dcd_edpt_clear_stall
  .text.rp2040_usb_init
-                0x10005180       0x4c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                0x10005180                rp2040_usb_init
+                0x1000518c       0x4c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x1000518c                rp2040_usb_init
  .text.hw_endpoint_xfer_start
-                0x100051cc       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                0x100051cc                hw_endpoint_xfer_start
+                0x100051d8       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x100051d8                hw_endpoint_xfer_start
  .text.tud_mounted
-                0x1000520c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x1000520c                tud_mounted
+                0x10005218       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005218                tud_mounted
  .text.tud_suspended
-                0x1000521c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x1000521c                tud_suspended
+                0x10005228       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005228                tud_suspended
  .text.tud_inited
-                0x1000522c       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x1000522c                tud_inited
+                0x10005238       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005238                tud_inited
  .text.tud_init
-                0x10005240       0xd8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005240                tud_init
+                0x1000524c       0xd8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x1000524c                tud_init
  .text.tud_task_ext
-                0x10005318      0x8a4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005318                tud_task_ext
+                0x10005324      0x8a4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005324                tud_task_ext
  .text.usbd_open_edpt_pair
-                0x10005bbc       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005bbc                usbd_open_edpt_pair
+                0x10005bc8       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005bc8                usbd_open_edpt_pair
  .text.usbd_defer_func
-                0x10005c58       0x48 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005c58                usbd_defer_func
+                0x10005c64       0x48 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005c64                usbd_defer_func
  .text.usbd_edpt_open
-                0x10005ca0       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005ca0                usbd_edpt_open
+                0x10005cac       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005cac                usbd_edpt_open
  .text.usbd_edpt_claim
-                0x10005cd4       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005cd4                usbd_edpt_claim
+                0x10005ce0       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005ce0                usbd_edpt_claim
  .text.usbd_edpt_release
-                0x10005cfc       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005cfc                usbd_edpt_release
+                0x10005d08       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005d08                usbd_edpt_release
  .text.usbd_edpt_xfer
-                0x10005d24       0x4c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10005d24                usbd_edpt_xfer
+                0x10005d30       0x4c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10005d30                usbd_edpt_xfer
  .text.tud_control_status
-                0x10005d70       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x10005d70                tud_control_status
+                0x10005d7c       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x10005d7c                tud_control_status
  .text.tud_control_xfer
-                0x10005d9c       0xac CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x10005d9c                tud_control_xfer
+                0x10005da8       0xac CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x10005da8                tud_control_xfer
  .text.usbd_control_reset
-                0x10005e48       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x10005e48                usbd_control_reset
+                0x10005e54       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x10005e54                usbd_control_reset
  .text.usbd_control_set_complete_callback
-                0x10005e5c        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x10005e5c                usbd_control_set_complete_callback
+                0x10005e68        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x10005e68                usbd_control_set_complete_callback
  .text.usbd_control_set_request
-                0x10005e68       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x10005e68                usbd_control_set_request
+                0x10005e74       0x1c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x10005e74                usbd_control_set_request
  .text.usbd_control_xfer_cb
-                0x10005e84       0xf4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
-                0x10005e84                usbd_control_xfer_cb
+                0x10005e90       0xf4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
+                0x10005e90                usbd_control_xfer_cb
  .text.tud_cdc_n_connected
-                0x10005f78       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10005f78                tud_cdc_n_connected
+                0x10005f84       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x10005f84                tud_cdc_n_connected
  .text.tud_cdc_n_available
-                0x10005fa8       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10005fa8                tud_cdc_n_available
+                0x10005fb4       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x10005fb4                tud_cdc_n_available
  .text.tud_cdc_n_read
-                0x10005fc0       0x70 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10005fc0                tud_cdc_n_read
+                0x10005fcc       0x70 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x10005fcc                tud_cdc_n_read
  .text.tud_cdc_n_write_flush
-                0x10006030       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10006030                tud_cdc_n_write_flush
+                0x1000603c       0x78 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x1000603c                tud_cdc_n_write_flush
  .text.tud_cdc_n_write
-                0x100060a8       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x100060a8                tud_cdc_n_write
+                0x100060b4       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x100060b4                tud_cdc_n_write
  .text.tud_cdc_n_write_available
-                0x100060dc       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x100060dc                tud_cdc_n_write_available
+                0x100060e8       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x100060e8                tud_cdc_n_write_available
  .text.cdcd_init
-                0x100060f4       0x7c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x100060f4                cdcd_init
+                0x10006100       0x7c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x10006100                cdcd_init
  .text.cdcd_reset
-                0x10006170       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10006170                cdcd_reset
+                0x1000617c       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x1000617c                cdcd_reset
  .text.cdcd_open
-                0x1000619c       0xe4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x1000619c                cdcd_open
+                0x100061a8       0xe4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x100061a8                cdcd_open
  .text.cdcd_control_xfer_cb
-                0x10006280       0xe4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10006280                cdcd_control_xfer_cb
+                0x1000628c       0xe4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x1000628c                cdcd_control_xfer_cb
  .text.cdcd_xfer_cb
-                0x10006364      0x13c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
-                0x10006364                cdcd_xfer_cb
+                0x10006370      0x13c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
+                0x10006370                cdcd_xfer_cb
  .text.tusb_init
-                0x100064a0        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x100064a0                tusb_init
+                0x100064ac        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x100064ac                tusb_init
  .text.tusb_inited
-                0x100064ac        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x100064ac                tusb_inited
+                0x100064b8        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x100064b8                tusb_inited
  .text.tu_edpt_claim
-                0x100064b4       0x50 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x100064b4                tu_edpt_claim
+                0x100064c0       0x50 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x100064c0                tu_edpt_claim
  .text.tu_edpt_release
-                0x10006504       0x38 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x10006504                tu_edpt_release
+                0x10006510       0x38 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x10006510                tu_edpt_release
  .text.tu_edpt_validate
-                0x1000653c       0x7c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x1000653c                tu_edpt_validate
+                0x10006548       0x7c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x10006548                tu_edpt_validate
  .text.tu_edpt_bind_driver
-                0x100065b8       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
-                0x100065b8                tu_edpt_bind_driver
+                0x100065c4       0x34 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c.obj
+                0x100065c4                tu_edpt_bind_driver
  .text.tu_fifo_config
-                0x100065ec       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x100065ec                tu_fifo_config
+                0x100065f8       0x6c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x100065f8                tu_fifo_config
  .text.tu_fifo_count
-                0x10006658       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x10006658                tu_fifo_count
+                0x10006664       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x10006664                tu_fifo_count
  .text.tu_fifo_empty
-                0x10006684       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x10006684                tu_fifo_empty
+                0x10006690       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x10006690                tu_fifo_empty
  .text.tu_fifo_remaining
-                0x10006694       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x10006694                tu_fifo_remaining
+                0x100066a0       0x2c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x100066a0                tu_fifo_remaining
  .text.tu_fifo_read
-                0x100066c0       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x100066c0                tu_fifo_read
+                0x100066cc       0x9c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x100066cc                tu_fifo_read
  .text.tu_fifo_read_n
-                0x1000675c       0xe8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x1000675c                tu_fifo_read_n
+                0x10006768       0xe8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x10006768                tu_fifo_read_n
  .text.tu_fifo_write
-                0x10006844       0x88 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x10006844                tu_fifo_write
+                0x10006850       0x88 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x10006850                tu_fifo_write
  .text.tu_fifo_write_n
-                0x100068cc      0x170 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x100068cc                tu_fifo_write_n
+                0x100068d8      0x170 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x100068d8                tu_fifo_write_n
  .text.tu_fifo_clear
-                0x10006a3c       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x10006a3c                tu_fifo_clear
+                0x10006a48       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x10006a48                tu_fifo_clear
  .text.tu_fifo_set_overwritable
-                0x10006a7c       0x48 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
-                0x10006a7c                tu_fifo_set_overwritable
+                0x10006a88       0x48 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
+                0x10006a88                tu_fifo_set_overwritable
  .text.i2c_set_baudrate
-                0x10006ac4       0xc4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x10006ac4                i2c_set_baudrate
+                0x10006ad0       0xc4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x10006ad0                i2c_set_baudrate
  .text.i2c_init
-                0x10006b88       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x10006b88                i2c_init
+                0x10006b94       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x10006b94                i2c_init
  .text.i2c_set_slave_mode
-                0x10006bdc       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
-                0x10006bdc                i2c_set_slave_mode
+                0x10006be8       0x40 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
+                0x10006be8                i2c_set_slave_mode
  .text.i2c_slave_init
-                0x10006c1c       0x5c CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
-                0x10006c1c                i2c_slave_init
+                0x10006c28       0x5c CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
+                0x10006c28                i2c_slave_init
  .text.__malloc_lock
-                0x10006c78       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
-                0x10006c78                __malloc_lock
+                0x10006c84       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+                0x10006c84                __malloc_lock
  .text.__malloc_unlock
-                0x10006c88       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
-                0x10006c88                __malloc_unlock
+                0x10006c94       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-mlock.o)
+                0x10006c94                __malloc_unlock
  .text.__sflush_r
-                0x10006c98      0x148 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
-                0x10006c98                __sflush_r
+                0x10006ca4      0x148 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+                0x10006ca4                __sflush_r
  .text._fflush_r
-                0x10006de0       0x68 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
-                0x10006de0                _fflush_r
- .text.fflush   0x10006e48       0x7c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
-                0x10006e48                fflush
+                0x10006dec       0x68 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+                0x10006dec                _fflush_r
+ .text.fflush   0x10006e54       0x7c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fflush.o)
+                0x10006e54                fflush
  .text.stdio_exit_handler
-                0x10006ec4       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+                0x10006ed0       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
  .text.cleanup_stdio
-                0x10006ee0       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+                0x10006eec       0x3c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
  .text.global_stdio_init.part.0
-                0x10006f1c      0x118 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
- .text.__sinit  0x10007034       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
-                0x10007034                __sinit
+                0x10006f28      0x118 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+ .text.__sinit  0x10007040       0x38 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+                0x10007040                __sinit
  .text.__sfp_lock_acquire
-                0x1000706c       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
-                0x1000706c                __sfp_lock_acquire
+                0x10007078       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+                0x10007078                __sfp_lock_acquire
  .text.__sfp_lock_release
-                0x1000707c       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
-                0x1000707c                __sfp_lock_release
+                0x10007088       0x10 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-findfp.o)
+                0x10007088                __sfp_lock_release
  .text._fwalk_sglue
-                0x1000708c       0x44 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
-                0x1000708c                _fwalk_sglue
- .text.__sread  0x100070d0       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
-                0x100070d0                __sread
+                0x10007098       0x44 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fwalk.o)
+                0x10007098                _fwalk_sglue
+ .text.__sread  0x100070dc       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+                0x100070dc                __sread
  .text.__swrite
-                0x100070f8       0x40 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
-                0x100070f8                __swrite
- .text.__sseek  0x10007138       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
-                0x10007138                __sseek
+                0x10007104       0x40 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+                0x10007104                __swrite
+ .text.__sseek  0x10007144       0x30 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+                0x10007144                __sseek
  .text.__sclose
-                0x10007168        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
-                0x10007168                __sclose
+                0x10007174        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-stdio.o)
+                0x10007174                __sclose
  .text._close_r
-                0x10007174       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
-                0x10007174                _close_r
+                0x10007180       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-closer.o)
+                0x10007180                _close_r
  .text._lseek_r
-                0x10007198       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
-                0x10007198                _lseek_r
- .text._read_r  0x100071c0       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
-                0x100071c0                _read_r
- .text._sbrk_r  0x100071e8       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
-                0x100071e8                _sbrk_r
+                0x100071a4       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lseekr.o)
+                0x100071a4                _lseek_r
+ .text._read_r  0x100071cc       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-readr.o)
+                0x100071cc                _read_r
+ .text._sbrk_r  0x100071f4       0x24 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-sbrkr.o)
+                0x100071f4                _sbrk_r
  .text._write_r
-                0x1000720c       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
-                0x1000720c                _write_r
- .text.__errno  0x10007234        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
-                0x10007234                __errno
+                0x10007218       0x28 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-writer.o)
+                0x10007218                _write_r
+ .text.__errno  0x10007240        0xc c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-errno.o)
+                0x10007240                __errno
  .text.__retarget_lock_init_recursive
-                0x10007240        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
-                0x10007240                __retarget_lock_init_recursive
- .text.__retarget_lock_close_recursive
-                0x10007244        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
-                0x10007244                __retarget_lock_close_recursive
- .text.__retarget_lock_acquire_recursive
-                0x10007248        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
-                0x10007248                __retarget_lock_acquire_recursive
- .text.__retarget_lock_release_recursive
                 0x1000724c        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
-                0x1000724c                __retarget_lock_release_recursive
- .text.sysconf  0x10007250       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
-                0x10007250                sysconf
- .text.strlen   0x1000726c       0x5c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-strlen-stub.o)
-                0x1000726c                strlen
+                0x1000724c                __retarget_lock_init_recursive
+ .text.__retarget_lock_close_recursive
+                0x10007250        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                0x10007250                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire_recursive
+                0x10007254        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                0x10007254                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x10007258        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
+                0x10007258                __retarget_lock_release_recursive
+ .text.sysconf  0x1000725c       0x1c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-sysconf.o)
+                0x1000725c                sysconf
+ .text.strlen   0x10007278       0x5c c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-strlen-stub.o)
+                0x10007278                strlen
  .text._malloc_trim_r
-                0x100072c8       0xb4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
-                0x100072c8                _malloc_trim_r
- .text._free_r  0x1000737c      0x1c0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
-                0x1000737c                _free_r
+                0x100072d4       0xb4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+                0x100072d4                _malloc_trim_r
+ .text._free_r  0x10007388      0x1c0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-freer.o)
+                0x10007388                _free_r
  .text._fclose_r
-                0x1000753c       0xd0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
-                0x1000753c                _fclose_r
+                0x10007548       0xd0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-fclose.o)
+                0x10007548                _fclose_r
  *(.fini)
- .fini          0x1000760c        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crti.o
-                0x1000760c                _fini
- .fini.__stub   0x10007610       0xc0 linker stubs
+ .fini          0x10007618        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crti.o
+                0x10007618                _fini
+ *fill*         0x1000761c        0x4 
+ .fini.__stub   0x10007620       0xc0 linker stubs
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
@@ -2119,128 +2120,130 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
  *(SORT_BY_NAME(.dtors.*))
  *(.dtors)
  *(.eh_frame*)
- .eh_frame      0x100076d0        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
-                0x100076d0                . = ALIGN (0x4)
+ .eh_frame      0x100076e0        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
+                0x100076e0                . = ALIGN (0x4)
 
-.glue_7         0x100076d0        0x0
- .glue_7        0x100076d0        0x0 linker stubs
+.glue_7         0x100076e0        0x0
+ .glue_7        0x100076e0        0x0 linker stubs
 
-.glue_7t        0x100076d0        0x0
- .glue_7t       0x100076d0        0x0 linker stubs
+.glue_7t        0x100076e0        0x0
+ .glue_7t       0x100076e0        0x0 linker stubs
 
-.vfp11_veneer   0x100076d0        0x0
- .vfp11_veneer  0x100076d0        0x0 linker stubs
+.vfp11_veneer   0x100076e0        0x0
+ .vfp11_veneer  0x100076e0        0x0 linker stubs
 
-.v4_bx          0x100076d0        0x0
- .v4_bx         0x100076d0        0x0 linker stubs
+.v4_bx          0x100076e0        0x0
+ .v4_bx         0x100076e0        0x0 linker stubs
 
-.iplt           0x100076d0        0x0
- .iplt          0x100076d0        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
+.iplt           0x100076e0        0x0
+ .iplt          0x100076e0        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
 
-.rodata         0x100076d0      0x524
+.rodata         0x100076e0      0x584
  *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .rodata*)
  .rodata.main.str1.4
-                0x100076d0       0x3c CMakeFiles/your_project.dir/main.cpp.obj
+                0x100076e0       0x3c CMakeFiles/your_project.dir/main.cpp.obj
+ .rodata._ZL11BUTTON_PINS
+                0x1000771c       0x60 CMakeFiles/your_project.dir/main.cpp.obj
  .rodata.spin_lock_claim_unused.str1.4
-                0x1000770c       0x1b CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- *fill*         0x10007727        0x1 
+                0x1000777c       0x1b CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+ *fill*         0x10007797        0x1 
  .rodata.user_irq_claim_unused.str1.4
-                0x10007728       0x1b CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x10007743        0x5 
+                0x10007798       0x1b CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ *fill*         0x100077b3        0x5 
  .rodata.at_the_end_of_time
-                0x10007748        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
-                0x10007748                at_the_end_of_time
+                0x100077b8        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+                0x100077b8                at_the_end_of_time
  .rodata.hardware_alarm_claim.str1.4
-                0x10007750       0x22 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- *fill*         0x10007772        0x2 
+                0x100077c0       0x22 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ *fill*         0x100077e2        0x2 
  .rodata.panic.str1.4
-                0x10007774       0x12 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- *fill*         0x10007786        0x2 
+                0x100077e4       0x12 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+ *fill*         0x100077f6        0x2 
  .rodata.hard_assertion_failure.str1.4
-                0x10007788        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x100077f8        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
  .rodata._ftoa.str1.4
-                0x10007794       0x15 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- *fill*         0x100077a9        0x3 
+                0x10007804       0x15 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ *fill*         0x10007819        0x3 
  .rodata._vsnprintf
-                0x100077ac      0x19c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x1000781c      0x19c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .rodata.pow10.0
-                0x10007948       0x50 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x100079b8       0x50 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .rodata.str1.4
-                0x10007998       0x44 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007a08       0x44 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_81
-                0x100079dc        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007a4c        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_75
-                0x100079e8        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007a58        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_44
-                0x100079f4        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007a64        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.crlf_str.0
-                0x10007a00        0x2 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- *fill*         0x10007a02        0x2 
+                0x10007a70        0x2 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ *fill*         0x10007a72        0x2 
  .rodata._resetd_driver
-                0x10007a04       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x10007a74       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .rodata.str1.4
-                0x10007a1c       0x13 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- *fill*         0x10007a2f        0x1 
+                0x10007a8c       0x13 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ *fill*         0x10007a9f        0x1 
  .rodata.__bi_188.0
-                0x10007a30        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10007aa0        0xc CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .rodata.str1.4
-                0x10007a3c       0x2a CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- *fill*         0x10007a66        0x2 
+                0x10007aac       0x2a CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ *fill*         0x10007ad6        0x2 
  .rodata.usbd_desc_str
-                0x10007a68       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x10007ad8       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .rodata.usbd_desc_cfg
-                0x10007a80       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+                0x10007af0       0x54 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .rodata.usbd_desc_device
-                0x10007ad4       0x12 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- *fill*         0x10007ae6        0x2 
+                0x10007b44       0x12 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ *fill*         0x10007b56        0x2 
  .rodata.str1.4
-                0x10007ae8       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+                0x10007b58       0x14 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .rodata.str1.4
-                0x10007afc       0x53 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- *fill*         0x10007b4f        0x1 
+                0x10007b6c       0x53 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+ *fill*         0x10007bbf        0x1 
  .rodata.tud_task_ext
-                0x10007b50       0x8c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10007bc0       0x8c CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .rodata._usbd_driver
-                0x10007bdc       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
-                0x10007bf4                . = ALIGN (0x4)
+                0x10007c4c       0x18 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+                0x10007c64                . = ALIGN (0x4)
  *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.flashdata*)))
-                0x10007bf4                . = ALIGN (0x4)
+                0x10007c64                . = ALIGN (0x4)
 
-.rel.dyn        0x10007bf4        0x0
- .rel.iplt      0x10007bf4        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
+.rel.dyn        0x10007c64        0x0
+ .rel.iplt      0x10007c64        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x10007bf4                __exidx_start = .
+                0x10007c64                __exidx_start = .
 
 .ARM.exidx
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
-                0x10007bf4                __exidx_end = .
-                0x10007bf4                . = ALIGN (0x4)
-                0x10007bf4                __binary_info_start = .
+                0x10007c64                __exidx_end = .
+                0x10007c64                . = ALIGN (0x4)
+                0x10007c64                __binary_info_start = .
 
-.binary_info    0x10007bf4       0x20
+.binary_info    0x10007c64       0x20
  *(.binary_info.keep.*)
  .binary_info.keep.__bi_ptr81
-                0x10007bf4        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c64        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr75
-                0x10007bf8        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c68        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr50
-                0x10007bfc        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c6c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr44
-                0x10007c00        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c70        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr38
-                0x10007c04        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c74        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr30
-                0x10007c08        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c78        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .binary_info.keep.__bi_ptr22
-                0x10007c0c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                0x10007c7c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  *(.binary_info.*)
  .binary_info.__bi_ptr188
-                0x10007c10        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
-                0x10007c14                __binary_info_end = .
-                0x10007c14                . = ALIGN (0x4)
-                0x10007c14                __etext = .
+                0x10007c80        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x10007c84                __binary_info_end = .
+                0x10007c84                . = ALIGN (0x4)
+                0x10007c84                __etext = .
 
 .ram_vector_table
                 0x20000000       0xc0
@@ -2249,7 +2252,7 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
                 0x20000000       0xc0 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
                 0x20000000                ram_vector_table
 
-.data           0x200000c0     0x14b0 load address 0x10007c14
+.data           0x200000c0     0x14b0 load address 0x10007c84
                 0x200000c0                __data_start__ = .
  *(vtable)
  *(.time_critical*)
@@ -2411,35 +2414,35 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
                 0x20001570                __data_end__ = .
 
 .tm_clone_table
-                0x20001570        0x0 load address 0x100090c4
+                0x20001570        0x0 load address 0x10009134
  .tm_clone_table
                 0x20001570        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
  .tm_clone_table
                 0x20001570        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtend.o
 
-.igot.plt       0x20001570        0x0 load address 0x100090c4
+.igot.plt       0x20001570        0x0 load address 0x10009134
  .igot.plt      0x20001570        0x0 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
 
 .uninitialized_data
-                0x20001570        0x0 load address 0x100090c4
+                0x20001570        0x0 load address 0x10009134
                 0x20001570                . = ALIGN (0x4)
  *(.uninitialized_data*)
 
-.scratch_x      0x20040000        0x0 load address 0x100090c4
+.scratch_x      0x20040000        0x0 load address 0x10009134
                 0x20040000                __scratch_x_start__ = .
  *(.scratch_x.*)
                 0x20040000                . = ALIGN (0x4)
                 0x20040000                __scratch_x_end__ = .
-                0x100090c4                __scratch_x_source__ = LOADADDR (.scratch_x)
+                0x10009134                __scratch_x_source__ = LOADADDR (.scratch_x)
 
-.scratch_y      0x20041000        0x0 load address 0x100090c4
+.scratch_y      0x20041000        0x0 load address 0x10009134
                 0x20041000                __scratch_y_start__ = .
  *(.scratch_y.*)
                 0x20041000                . = ALIGN (0x4)
                 0x20041000                __scratch_y_end__ = .
-                0x100090c4                __scratch_y_source__ = LOADADDR (.scratch_y)
+                0x10009134                __scratch_y_source__ = LOADADDR (.scratch_y)
 
-.bss            0x20001570     0x101c
+.bss            0x20001570     0x1020
                 0x20001570                . = ALIGN (0x4)
                 0x20001570                __bss_start__ = .
  *(SORT_BY_ALIGNMENT(SORT_BY_NAME(.bss*)))
@@ -2454,8 +2457,8 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
  .bss.sf_table  0x200017a0      0x100 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
                 0x200017a0                sf_table
  .bss._ZL7context
-                0x200018a0      0x102 CMakeFiles/your_project.dir/main.cpp.obj
- *fill*         0x200019a2        0x2 
+                0x200018a0      0x103 CMakeFiles/your_project.dir/main.cpp.obj
+ *fill*         0x200019a3        0x1 
  .bss.__lock___malloc_recursive_mutex
                 0x200019a4        0x1 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-lock.o)
                 0x200019a4                __lock___malloc_recursive_mutex
@@ -2498,88 +2501,88 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
                 0x20001f58       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .bss.boot2_copyout
                 0x20001f68      0x100 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
- .bss.chars_available_callback
-                0x20002068        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.chars_available_param
-                0x2000206c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.claimed   0x20002070        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- .bss.default_alarm_pool_entry_ids_high
-                0x20002074       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
- .bss.default_alarm_pool_heap_nodes
-                0x20002084       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
- .bss.desc_str.0
-                0x200020b4       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .bss.drivers   0x200020dc        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- .bss.e15_last_sof
-                0x200020e0        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
-                0x200020e0                e15_last_sof
- .bss.errno     0x200020e4        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
-                0x200020e4                errno
- .bss.filter    0x200020e8        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- .bss.heap_end.0
-                0x200020ec        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- .bss.hw_endpoints
-                0x200020f0      0x400 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .bss.i2c_slaves
-                0x200024f0       0x18 CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
- .bss.lazy_vsnprintf
-                0x20002508        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .bss.load_value
-                0x2000250c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .bss.next_buffer_ptr
-                0x20002510        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .bss.object.0  0x20002514       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
- .bss.one_shot_timer_crit_sec
-                0x2000252c        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.pools     0x20002534       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
- .bss.retrieved_id
-                0x20002544        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
- .bss.sf_clz_func
-                0x2000254c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x2000254c                sf_clz_func
- .bss.sleep_notifier
-                0x20002550        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
- .bss.stdio_usb_mutex
-                0x20002554        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- .bss.target_hi
-                0x2000255c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- .bss.usbd_serial_str
-                0x2000256c       0x11 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- .bss._app_driver_count
-                0x2000257d        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- .bss._sof_enable
-                0x2000257e        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- .bss.boot2_copyout_valid
-                0x2000257f        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
  .bss.buttonState
-                0x20002580        0x1 CMakeFiles/your_project.dir/main.cpp.obj
-                0x20002580                buttonState
- .bss.claimed   0x20002581        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- .bss.irq_hander_chain_free_slot_head
-                0x20002582        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- .bss.itf_num   0x20002583        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
+                0x20002068        0x4 CMakeFiles/your_project.dir/main.cpp.obj
+                0x20002068                buttonState
+ .bss.chars_available_callback
+                0x2000206c        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.chars_available_param
+                0x20002070        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.claimed   0x20002074        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+ .bss.default_alarm_pool_entry_ids_high
+                0x20002078       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+ .bss.default_alarm_pool_heap_nodes
+                0x20002088       0x30 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+ .bss.desc_str.0
+                0x200020b8       0x28 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .bss.drivers   0x200020e0        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ .bss.e15_last_sof
+                0x200020e4        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
+                0x200020e4                e15_last_sof
+ .bss.errno     0x200020e8        0x4 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libc.a(libc_a-reent.o)
+                0x200020e8                errno
+ .bss.filter    0x200020ec        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ .bss.heap_end.0
+                0x200020f0        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+ .bss.hw_endpoints
+                0x200020f4      0x400 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .bss.i2c_slaves
+                0x200024f4       0x18 CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
  .bss.lastButtonState
-                0x20002584        0x1 CMakeFiles/your_project.dir/main.cpp.obj
-                0x20002584                lastButtonState
+                0x2000250c        0x4 CMakeFiles/your_project.dir/main.cpp.obj
+                0x2000250c                lastButtonState
+ .bss.lazy_vsnprintf
+                0x20002510        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .bss.load_value
+                0x20002514        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .bss.next_buffer_ptr
+                0x20002518        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .bss.object.0  0x2000251c       0x18 c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp/crtbegin.o
+ .bss.one_shot_timer_crit_sec
+                0x20002534        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.pools     0x2000253c       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+ .bss.retrieved_id
+                0x2000254c        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
+ .bss.sf_clz_func
+                0x20002554        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x20002554                sf_clz_func
+ .bss.sleep_notifier
+                0x20002558        0x4 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/time.c.obj
+ .bss.stdio_usb_mutex
+                0x2000255c        0x8 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+ .bss.target_hi
+                0x20002564       0x10 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ .bss.usbd_serial_str
+                0x20002574       0x11 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
+ .bss._app_driver_count
+                0x20002585        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
+ .bss._sof_enable
+                0x20002586        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
+ .bss.boot2_copyout_valid
+                0x20002587        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
+ .bss.claimed   0x20002588        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ .bss.irq_hander_chain_free_slot_head
+                0x20002589        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ .bss.itf_num   0x2000258a        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .bss.low_priority_irq_num
-                0x20002585        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x2000258b        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .bss.one_shot_timer_pending
-                0x20002586        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
+                0x2000258c        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .bss.timer_callbacks_pending
-                0x20002587        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x2000258d        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .bss.user_irq_claimed
-                0x20002588        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x2000258e        0x1 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  *(COMMON)
-                0x2000258c                . = ALIGN (0x4)
- *fill*         0x20002589        0x3 
-                0x2000258c                __bss_end__ = .
+                0x20002590                . = ALIGN (0x4)
+ *fill*         0x2000258f        0x1 
+                0x20002590                __bss_end__ = .
 
-.heap           0x2000258c      0x800
-                0x2000258c                __end__ = .
-                0x2000258c                end = __end__
+.heap           0x20002590      0x800
+                0x20002590                __end__ = .
+                0x20002590                end = __end__
  *(.heap*)
- .heap          0x2000258c      0x800 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
-                0x20002d8c                __HeapLimit = .
+ .heap          0x20002590      0x800 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+                0x20002d90                __HeapLimit = .
 
 .stack1_dummy
  *(.stack1*)
@@ -2588,8 +2591,8 @@ LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb
  *(.stack*)
  .stack         0x20041000      0x800 CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
 
-.flash_end      0x100090c4        0x0
-                0x100090c4                __flash_binary_end = .
+.flash_end      0x10009134        0x0
+                0x10009134                __flash_binary_end = .
                 0x20040000                __StackLimit = (ORIGIN (RAM) + LENGTH (RAM))
                 0x20041000                __StackOneTop = (ORIGIN (SCRATCH_X) + LENGTH (SCRATCH_X))
                 0x20042000                __StackTop = (ORIGIN (SCRATCH_Y) + LENGTH (SCRATCH_Y))
@@ -2669,7 +2672,7 @@ LOAD CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/c
 LOAD CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj
 LOAD CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
 LOAD CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
-LOAD C:\Users\kanuk\AppData\Local\Temp\ccGqSMUj.o
+LOAD C:\Users\kanuk\AppData\Local\Temp\cciVAtMO.o
 LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libstdc++.a
 LOAD c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libm.a
 START GROUP
@@ -2787,7 +2790,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x000007ce       0x2c CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
  .ARM.attributes
-                0x000007fa       0x22 C:\Users\kanuk\AppData\Local\Temp\ccGqSMUj.o
+                0x000007fa       0x22 C:\Users\kanuk\AppData\Local\Temp\cciVAtMO.o
  .ARM.attributes
                 0x0000081c       0x1e c:/progra~2/armgnu~1/12dbab~1.2re/bin/../lib/gcc/arm-none-eabi/12.2.1/thumb/v6-m/nofp\libgcc.a(_dvmd_tls.o)
  .ARM.attributes
