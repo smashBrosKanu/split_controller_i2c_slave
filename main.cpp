@@ -41,12 +41,12 @@ static void i2c_slave_handler(i2c_inst_t* i2c, i2c_slave_event_t event) {
         }
         break;
     case I2C_SLAVE_REQUEST: // master is requesting data
-        i2c_write_byte(i2c, context.mem[context.num]);
-        context.num++;
-        if(context.num > 3)
+        if (context.num > 3)
         {
             context.num = 0;
         }
+        i2c_write_byte(i2c, context.mem[context.num]);
+        context.num++;
         //i2c_write_byte(i2c, context.mem[1]);
         //i2c_write_byte(i2c, context.mem[2]);
         //i2c_write_byte(i2c, context.mem[3]);
@@ -93,16 +93,7 @@ int main()
 
     while (true)
     {
-        buttonState = 0;
-        for (int i = 0; i < BUTTON_PIN_COUNT; ++i)
-        {
-            if (gpio_get(BUTTON_PINS[i]) == 0)
-            {
-                buttonState |= 1 << i;
-            }
-        }
-
-
+        buttonState = gpio_get_all();
 
         if (buttonState != lastButtonState)
         {
@@ -112,10 +103,15 @@ int main()
             context.mem[3] = (buttonState >> 24) & 0xff;
             lastButtonState = buttonState;
             // Add the following lines:
-            printf("Button 1 state: %s\n", (buttonState & (1 << 0)) ? "Pressed" : "Released");
-            printf("Button 2 state: %s\n", (buttonState & (1 << 1)) ? "Pressed" : "Released");
+            // Print each bit one by one
+            for (int i = 31; i >= 0; --i) {
+                printf("%d", (buttonState >> i) & 1);
+            }
+            printf("\n");
             fflush(stdout);  // Make sure the output is printed immediately
         }
+
+        sleep_ms(500);
 
     }
 

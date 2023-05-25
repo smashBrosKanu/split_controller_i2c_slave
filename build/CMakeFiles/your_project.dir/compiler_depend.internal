@@ -25,9 +25,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -63,9 +63,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -136,9 +136,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -174,9 +174,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -212,9 +212,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -250,9 +250,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -288,9 +288,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -326,9 +326,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -364,9 +364,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -402,9 +402,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -440,9 +440,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -478,9 +478,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/class/
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -531,9 +531,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/common
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/assert.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/assert.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -586,9 +586,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -667,9 +667,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/device
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -746,9 +746,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portab
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -825,9 +825,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/portab
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -897,9 +897,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/lib/tinyusb/src/tusb.c
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -974,9 +974,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/c
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1013,9 +1013,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/l
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1053,9 +1053,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/m
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1093,9 +1093,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_sync/s
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1146,9 +1146,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/t
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/assert.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stdbool.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/assert.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1191,9 +1191,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_time/t
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1228,9 +1228,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/d
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1281,9 +1281,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/p
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1326,9 +1326,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/common/pico_util/q
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1365,9 +1365,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1399,9 +1399,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1455,9 +1455,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1494,9 +1494,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1538,9 +1538,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1586,9 +1586,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1631,9 +1631,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1673,9 +1673,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1708,9 +1708,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1749,9 +1749,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1794,9 +1794,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1840,9 +1840,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1876,9 +1876,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardwar
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1916,9 +1916,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bo
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1959,9 +1959,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_do
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -1999,9 +1999,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_do
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2031,9 +2031,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_fi
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2092,9 +2092,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_fl
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2133,9 +2133,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_fl
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2177,9 +2177,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_ma
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2209,9 +2209,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_pl
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2253,9 +2253,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_pr
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/assert.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/assert.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2314,9 +2314,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_ru
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2371,9 +2371,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_st
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/config.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/machine/ieeefp.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2457,9 +2457,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_st
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2520,9 +2520,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_st
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/assert.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/assert.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2604,9 +2604,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_st
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/assert.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/assert.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2691,9 +2691,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_st
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/assert.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/assert.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2752,9 +2752,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_st
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2816,9 +2816,9 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_un
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2831,8 +2831,8 @@ CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_un
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/include/pico/unique_id.h
 
 CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
- C:/Users/kanuk/i2c_slave/i2c_slave/i2c_slave.c
- C:/Users/kanuk/i2c_slave/i2c_slave/include/i2c_slave.h
+ C:/Users/kanuk/split-i2c-slave/i2c_slave/i2c_slave.c
+ C:/Users/kanuk/split-i2c-slave/i2c_slave/include/i2c_slave.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/include/hardware/i2c.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
@@ -2851,9 +2851,9 @@ CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2876,8 +2876,8 @@ CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj
  C:/Users/kanuk/clone/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
 
 CMakeFiles/your_project.dir/main.cpp.obj
- C:/Users/kanuk/i2c_slave/main.cpp
- C:/Users/kanuk/i2c_slave/i2c_slave/include/i2c_fifo.h
+ C:/Users/kanuk/split-i2c-slave/main.cpp
+ C:/Users/kanuk/split-i2c-slave/i2c_slave/include/i2c_fifo.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/include/hardware/i2c.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/types.h
@@ -2901,9 +2901,9 @@ CMakeFiles/your_project.dir/main.cpp.obj
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_intsup.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/arm-none-eabi/include/sys/_stdint.h
  C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/12.2 rel1/lib/gcc/arm-none-eabi/12.2.1/include/stddef.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/version.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/version.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include/pico/config.h
- C:/Users/kanuk/i2c_slave/build/generated/pico_base/pico/config_autogen.h
+ C:/Users/kanuk/split-i2c-slave/build/generated/pico_base/pico/config_autogen.h
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
@@ -2921,7 +2921,7 @@ CMakeFiles/your_project.dir/main.cpp.obj
  C:/Users/kanuk/clone/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/i2c.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/i2c.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/dreq.h
- C:/Users/kanuk/i2c_slave/i2c_slave/include/i2c_slave.h
+ C:/Users/kanuk/split-i2c-slave/i2c_slave/include/i2c_slave.h
  C:/Users/kanuk/clone/pico-sdk/src/common/pico_stdlib/include/pico/stdlib.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h

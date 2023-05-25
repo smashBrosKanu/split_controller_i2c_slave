@@ -8,17 +8,17 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_ASM
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_divider/divider.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_aeabi.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S" "C:/Users/kanuk/i2c_slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_divider/divider.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_aeabi.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S" "C:/Users/kanuk/split-i2c-slave/build/CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
   )
 
 # Preprocessor definitions for this target.
@@ -69,7 +69,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
 
 # The include file search paths:
 set(CMAKE_ASM_TARGET_INCLUDE_PATH
-  "C:/Users/kanuk/i2c_slave/i2c_slave/include"
+  "C:/Users/kanuk/split-i2c-slave/i2c_slave/include"
   "C:/Users/kanuk/clone/pico-sdk/src/common/pico_stdlib/include"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_gpio/include"
   "C:/Users/kanuk/clone/pico-sdk/src/common/pico_base/include"
@@ -116,7 +116,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "C:/Users/kanuk/clone/pico-sdk/lib/tinyusb/hw"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration/include"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_i2c/include"
-  "C:/Users/kanuk/i2c_slave/i2c_slave/./include"
+  "C:/Users/kanuk/split-i2c-slave/i2c_slave/./include"
   )
 
 # The set of dependency files which are needed:
@@ -178,9 +178,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" "gcc" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" "gcc" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" "gcc" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d"
-  "C:/Users/kanuk/i2c_slave/i2c_slave/i2c_slave.c" "CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj" "gcc" "CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj.d"
+  "C:/Users/kanuk/split-i2c-slave/i2c_slave/i2c_slave.c" "CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj" "gcc" "CMakeFiles/your_project.dir/i2c_slave/i2c_slave.c.obj.d"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" "gcc" "CMakeFiles/your_project.dir/C_/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d"
-  "C:/Users/kanuk/i2c_slave/main.cpp" "CMakeFiles/your_project.dir/main.cpp.obj" "gcc" "CMakeFiles/your_project.dir/main.cpp.obj.d"
+  "C:/Users/kanuk/split-i2c-slave/main.cpp" "CMakeFiles/your_project.dir/main.cpp.obj" "gcc" "CMakeFiles/your_project.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.

@@ -1,6 +1,6 @@
 CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: \
- C:\Users\kanuk\i2c_slave\i2c_slave\i2c_slave.c \
- C:\Users\kanuk\i2c_slave\i2c_slave\include/i2c_slave.h \
+ C:\Users\kanuk\split-i2c-slave\i2c_slave\i2c_slave.c \
+ C:\Users\kanuk\split-i2c-slave\i2c_slave\include/i2c_slave.h \
  C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_i2c\include/hardware/i2c.h \
  C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include/pico.h \
  C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include/pico/types.h \
@@ -19,9 +19,9 @@ CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: \
  c:\progra~2\armgnu~1\12dbab~1.2re\arm-none-eabi\include\sys\_intsup.h \
  c:\progra~2\armgnu~1\12dbab~1.2re\arm-none-eabi\include\sys\_stdint.h \
  c:\progra~2\armgnu~1\12dbab~1.2re\lib\gcc\arm-none-eabi\12.2.1\include\stddef.h \
- C:\Users\kanuk\i2c_slave\build\generated\pico_base/pico/version.h \
+ C:\Users\kanuk\split-i2c-slave\build\generated\pico_base/pico/version.h \
  C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include/pico/config.h \
- C:\Users\kanuk\i2c_slave\build\generated\pico_base/pico/config_autogen.h \
+ C:\Users\kanuk\split-i2c-slave\build\generated\pico_base/pico/config_autogen.h \
  C:/Users/kanuk/clone/pico-sdk/src/boards/include/boards/pico.h \
  C:/Users/kanuk/clone/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_platform\include/pico/platform.h \

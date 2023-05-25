@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "C:/Users/kanuk/i2c_slave/build/elf2uf2/CMakeFiles/3.25.1-msvc1/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "C:/Users/kanuk/split-i2c-slave/build/elf2uf2/CMakeFiles/3.25.1-msvc1/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.35.32215/bin/Hostx86/x86/cl.exe 
@@ -45,31 +45,31 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "C:/Users/kanuk/i2c_slave/build/elf2uf2/CMakeFiles/3.25.1-msvc1/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "C:/Users/kanuk/split-i2c-slave/build/elf2uf2/CMakeFiles/3.25.1-msvc1/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: C:/Users/kanuk/i2c_slave/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-5ygj37
+Change Dir: C:/Users/kanuk/split-i2c-slave/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-ixswlj
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_00230\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_00230.dir\build.make /nologo -L                  CMakeFiles\cmTC_00230.dir\build
-Building C object CMakeFiles/cmTC_00230.dir/CMakeCCompilerABI.c.obj
-	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_00230.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\kanuk\i2c_slave\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-5ygj37 --filter-prefix="メモ: インクルード ファイル:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\cl.exe @C:\Users\kanuk\AppData\Local\Temp\nm7253.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2a67b\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_2a67b.dir\build.make /nologo -L                  CMakeFiles\cmTC_2a67b.dir\build
+Building C object CMakeFiles/cmTC_2a67b.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2a67b.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\kanuk\split-i2c-slave\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-ixswlj --filter-prefix="メモ: インクルード ファイル:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\cl.exe @C:\Users\kanuk\AppData\Local\Temp\nm7E68.tmp
 CMakeCCompilerABI.c
 繝ｻ・懊・ 繧､繝ｳ繧ｯ繝ｫ繝ｼ繝・繝輔ぃ繧､繝ｫ:  C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCompilerABI.h
-Linking C executable cmTC_00230.exe
-	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_00230.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_00230.dir\objects1 @C:\Users\kanuk\AppData\Local\Temp\nm73CB.tmp
+Linking C executable cmTC_2a67b.exe
+	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2a67b.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_2a67b.dir\objects1 @C:\Users\kanuk\AppData\Local\Temp\nm7FD1.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: C:/Users/kanuk/i2c_slave/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-3h7l0m
+Change Dir: C:/Users/kanuk/split-i2c-slave/build/elf2uf2/CMakeFiles/CMakeScratch/TryCompile-pdlxp0
 
-Run Build Command(s):nmake -f Makefile /nologo cmTC_9b6bd\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_9b6bd.dir\build.make /nologo -L                  CMakeFiles\cmTC_9b6bd.dir\build
-Building CXX object CMakeFiles/cmTC_9b6bd.dir/CMakeCXXCompilerABI.cpp.obj
-	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9b6bd.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\kanuk\i2c_slave\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-3h7l0m --filter-prefix="メモ: インクルード ファイル:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\cl.exe @C:\Users\kanuk\AppData\Local\Temp\nm758F.tmp
+Run Build Command(s):nmake -f Makefile /nologo cmTC_77613\fast && 	"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_77613.dir\build.make /nologo -L                  CMakeFiles\cmTC_77613.dir\build
+Building CXX object CMakeFiles/cmTC_77613.dir/CMakeCXXCompilerABI.cpp.obj
+	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_77613.dir\CMakeCXXCompilerABI.cpp.obj.d --working-dir=C:\Users\kanuk\split-i2c-slave\build\elf2uf2\CMakeFiles\CMakeScratch\TryCompile-pdlxp0 --filter-prefix="メモ: インクルード ファイル:  " -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\cl.exe @C:\Users\kanuk\AppData\Local\Temp\nm8195.tmp
 CMakeCXXCompilerABI.cpp
 繝ｻ・懊・ 繧､繝ｳ繧ｯ繝ｫ繝ｼ繝・繝輔ぃ繧､繝ｫ:  C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\share\cmake-3.25\Modules\CMakeCompilerABI.h
-Linking CXX executable cmTC_9b6bd.exe
-	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9b6bd.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_9b6bd.dir\objects1 @C:\Users\kanuk\AppData\Local\Temp\nm760D.tmp
+Linking CXX executable cmTC_77613.exe
+	"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_77613.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100226~1.0\x86\mt.exe --manifests -- C:\PROGRA~1\MICROS~3\2022\COMMUN~1\VC\Tools\MSVC\1435~1.322\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_77613.dir\objects1 @C:\Users\kanuk\AppData\Local\Temp\nm81E4.tmp
 
 
 

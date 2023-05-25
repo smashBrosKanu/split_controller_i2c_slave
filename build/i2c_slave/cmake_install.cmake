@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/kanuk/i2c_slave/i2c_slave
+# Install script for directory: C:/Users/kanuk/split-i2c-slave/i2c_slave
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

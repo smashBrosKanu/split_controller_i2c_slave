@@ -42,10 +42,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\kanuk\i2c_slave
+CMAKE_SOURCE_DIR = C:\Users\kanuk\split-i2c-slave
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\kanuk\i2c_slave\build
+CMAKE_BINARY_DIR = C:\Users\kanuk\split-i2c-slave\build
 
 # Utility rule file for bs2_default_bin.
 
@@ -56,14 +56,14 @@ include pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\compi
 include pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\progress.make
 
 pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin: pico-sdk\src\rp2_common\boot_stage2\bs2_default.bin
-	cd C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\boot_stage2
-	cd C:\Users\kanuk\i2c_slave\build
+	cd C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\boot_stage2
+	cd C:\Users\kanuk\split-i2c-slave\build
 
 pico-sdk\src\rp2_common\boot_stage2\bs2_default.bin: pico-sdk\src\rp2_common\boot_stage2\bs2_default.elf
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\kanuk\i2c_slave\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating bs2_default.bin"
-	cd C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\boot_stage2
-	echo >nul && "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\bin\arm-none-eabi-objcopy.exe" -Obinary C:/Users/kanuk/i2c_slave/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf C:/Users/kanuk/i2c_slave/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
-	cd C:\Users\kanuk\i2c_slave\build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\kanuk\split-i2c-slave\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating bs2_default.bin"
+	cd C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\boot_stage2
+	echo >nul && "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\bin\arm-none-eabi-objcopy.exe" -Obinary C:/Users/kanuk/split-i2c-slave/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf C:/Users/kanuk/split-i2c-slave/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+	cd C:\Users\kanuk\split-i2c-slave\build
 
 bs2_default_bin: pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin
 bs2_default_bin: pico-sdk\src\rp2_common\boot_stage2\bs2_default.bin
@@ -75,12 +75,12 @@ pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\build: bs2_de
 .PHONY : pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\build
 
 pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\clean:
-	cd C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\boot_stage2
+	cd C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\boot_stage2
 	$(CMAKE_COMMAND) -P CMakeFiles\bs2_default_bin.dir\cmake_clean.cmake
-	cd C:\Users\kanuk\i2c_slave\build
+	cd C:\Users\kanuk\split-i2c-slave\build
 .PHONY : pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\clean
 
 pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\kanuk\i2c_slave C:\Users\kanuk\clone\pico-sdk\src\rp2_common\boot_stage2 C:\Users\kanuk\i2c_slave\build C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\boot_stage2 C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\kanuk\split-i2c-slave C:\Users\kanuk\clone\pico-sdk\src\rp2_common\boot_stage2 C:\Users\kanuk\split-i2c-slave\build C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\boot_stage2 C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : pico-sdk\src\rp2_common\boot_stage2\CMakeFiles\bs2_default_bin.dir\depend
 

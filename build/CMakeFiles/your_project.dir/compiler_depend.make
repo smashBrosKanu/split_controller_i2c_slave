@@ -2830,8 +2830,8 @@ CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_un
 CMakeFiles\your_project.dir\C_\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_unique_id\include\pico\unique_id.h
 
 
-CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\i2c_slave\i2c_slave\i2c_slave.c
-CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\i2c_slave\i2c_slave\include\i2c_slave.h
+CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\split-i2c-slave\i2c_slave\i2c_slave.c
+CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\split-i2c-slave\i2c_slave\include\i2c_slave.h
 CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_i2c\include\hardware\i2c.h
 CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico.h
 CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
@@ -2875,8 +2875,8 @@ CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\clone\pico
 CMakeFiles\your_project.dir\i2c_slave\i2c_slave.c.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\m0plus.h
 
 
-CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\i2c_slave\main.cpp
-CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\i2c_slave\i2c_slave\include\i2c_fifo.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\split-i2c-slave\main.cpp
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\split-i2c-slave\i2c_slave\include\i2c_fifo.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_i2c\include\hardware\i2c.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_base\include\pico\types.h
@@ -2920,7 +2920,7 @@ CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp20
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_structs\include\hardware\structs\i2c.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\i2c.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2040\hardware_regs\include\hardware\regs\dreq.h
-CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\i2c_slave\i2c_slave\include\i2c_slave.h
+CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\split-i2c-slave\i2c_slave\include\i2c_slave.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\common\pico_stdlib\include\pico\stdlib.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_stdio\include\pico\stdio.h
 CMakeFiles\your_project.dir\main.cpp.obj: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\hardware_gpio\include\hardware\gpio.h
@@ -3232,8 +3232,6 @@ C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\sem.c:
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\critical_section.c:
 
-C:\Users\kanuk\i2c_slave\i2c_slave\i2c_slave.c:
-
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\lock_core.c:
 
 C:\Users\kanuk\clone\pico-sdk\src\common\pico_sync\mutex.c:
@@ -3450,10 +3448,12 @@ C:\Users\kanuk\clone\pico-sdk\src\common\pico_stdlib\include\pico\stdlib.h:
 
 C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_unique_id\unique_id.c:
 
-C:\Users\kanuk\i2c_slave\i2c_slave\include\i2c_slave.h:
+C:\Users\kanuk\split-i2c-slave\i2c_slave\i2c_slave.c:
 
-C:\Users\kanuk\i2c_slave\main.cpp:
+C:\Users\kanuk\split-i2c-slave\i2c_slave\include\i2c_slave.h:
 
-C:\Users\kanuk\i2c_slave\i2c_slave\include\i2c_fifo.h:
+C:\Users\kanuk\split-i2c-slave\main.cpp:
+
+C:\Users\kanuk\split-i2c-slave\i2c_slave\include\i2c_fifo.h:
 
 "C:\Program Files (x86)\Arm GNU Toolchain arm-none-eabi\12.2 rel1\arm-none-eabi\include\c++\12.2.1\cassert":

@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/kanuk/clone/pico-sdk/tools/pioasm")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/kanuk/i2c_slave/build/pioasm")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/kanuk/split-i2c-slave/build/pioasm")
 
 
 # The C and CXX include file regular expressions for this directory.

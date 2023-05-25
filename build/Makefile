@@ -46,10 +46,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\kanuk\i2c_slave
+CMAKE_SOURCE_DIR = C:\Users\kanuk\split-i2c-slave
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\kanuk\i2c_slave\build
+CMAKE_BINARY_DIR = C:\Users\kanuk\split-i2c-slave\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -76,9 +76,9 @@ rebuild_cache\fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kanuk\i2c_slave\build\CMakeFiles C:\Users\kanuk\i2c_slave\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kanuk\split-i2c-slave\build\CMakeFiles C:\Users\kanuk\split-i2c-slave\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kanuk\i2c_slave\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\kanuk\split-i2c-slave\build\CMakeFiles 0
 .PHONY : all
 
 # The main clean target

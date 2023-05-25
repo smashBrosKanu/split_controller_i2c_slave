@@ -42,10 +42,10 @@ RM = "C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Common
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\kanuk\i2c_slave
+CMAKE_SOURCE_DIR = C:\Users\kanuk\split-i2c-slave
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\kanuk\i2c_slave\build
+CMAKE_BINARY_DIR = C:\Users\kanuk\split-i2c-slave\build
 
 # Utility rule file for cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.
 
@@ -56,14 +56,14 @@ include pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_
 include pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\progress.make
 
 pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h: pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.pio.h
-	cd C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver
-	cd C:\Users\kanuk\i2c_slave\build
+	cd C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver
+	cd C:\Users\kanuk\split-i2c-slave\build
 
 pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.pio.h: C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.pio
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\kanuk\i2c_slave\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating cyw43_bus_pio_spi.pio.h"
-	cd C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver
-	..\..\..\..\pioasm\pioasm.exe -o c-sdk C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio C:/Users/kanuk/i2c_slave/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h
-	cd C:\Users\kanuk\i2c_slave\build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\kanuk\split-i2c-slave\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating cyw43_bus_pio_spi.pio.h"
+	cd C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver
+	..\..\..\..\pioasm\pioasm.exe -o c-sdk C:/Users/kanuk/clone/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio C:/Users/kanuk/split-i2c-slave/build/pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h
+	cd C:\Users\kanuk\split-i2c-slave\build
 
 cyw43_driver_picow_cyw43_bus_pio_spi_pio_h: pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h
 cyw43_driver_picow_cyw43_bus_pio_spi_pio_h: pico-sdk\src\rp2_common\pico_cyw43_driver\cyw43_bus_pio_spi.pio.h
@@ -75,12 +75,12 @@ pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bu
 .PHONY : pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\build
 
 pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\clean:
-	cd C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver
+	cd C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver
 	$(CMAKE_COMMAND) -P CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\cmake_clean.cmake
-	cd C:\Users\kanuk\i2c_slave\build
+	cd C:\Users\kanuk\split-i2c-slave\build
 .PHONY : pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\clean
 
 pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\kanuk\i2c_slave C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_cyw43_driver C:\Users\kanuk\i2c_slave\build C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver C:\Users\kanuk\i2c_slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\kanuk\split-i2c-slave C:\Users\kanuk\clone\pico-sdk\src\rp2_common\pico_cyw43_driver C:\Users\kanuk\split-i2c-slave\build C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver C:\Users\kanuk\split-i2c-slave\build\pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : pico-sdk\src\rp2_common\pico_cyw43_driver\CMakeFiles\cyw43_driver_picow_cyw43_bus_pio_spi_pio_h.dir\depend
 

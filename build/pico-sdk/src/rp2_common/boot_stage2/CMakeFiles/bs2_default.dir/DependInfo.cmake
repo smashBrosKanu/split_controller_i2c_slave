@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_ASM
-  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/boot_stage2/compile_time_choice.S" "C:/Users/kanuk/i2c_slave/build/pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj"
+  "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/boot_stage2/compile_time_choice.S" "C:/Users/kanuk/split-i2c-slave/build/pico-sdk/src/rp2_common/boot_stage2/CMakeFiles/bs2_default.dir/compile_time_choice.S.obj"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
 
@@ -22,7 +22,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
 
 # The include file search paths:
 set(CMAKE_ASM_TARGET_INCLUDE_PATH
-  "C:/Users/kanuk/i2c_slave/i2c_slave/include"
+  "C:/Users/kanuk/split-i2c-slave/i2c_slave/include"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/boot_stage2/asminclude"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2040/hardware_regs/include"
   "C:/Users/kanuk/clone/pico-sdk/src/rp2_common/hardware_base/include"
