@@ -5,7 +5,7 @@
 #include <cstdio>  // Add this line
 #include "tusb.h"
 
-#define I2C_SLAVE_ADDRESS  0x01            // Define the I2C address
+#define I2C_SLAVE_ADDRESS  0x17            // Define the I2C address
 #define I2C_SDA   0               // GP0 is used for SDA
 #define I2C_SCL   1               // GP1 is used for SCL
 
@@ -77,7 +77,7 @@ int main()
     tusb_init();
 
     // I2C setup
-    i2c_init(i2c0, 100 * 1000);
+    i2c_init(i2c0, 400 * 1000);
     gpio_set_function(I2C_SDA, GPIO_FUNC_I2C);
     gpio_set_function(I2C_SCL, GPIO_FUNC_I2C);
     gpio_pull_up(I2C_SDA);

@@ -409,7 +409,7 @@ Disassembly of section .text:
 100003c2:	2101      	movs	r1, #1
 100003c4:	2001      	movs	r0, #1
 100003c6:	f000 f873 	bl	100004b0 <gpio_set_pulls>
-100003ca:	2101      	movs	r1, #1
+100003ca:	2117      	movs	r1, #23
 100003cc:	0020      	movs	r0, r4
 100003ce:	4a25      	ldr	r2, [pc, #148]	; (10000464 <main+0xdc>)
 100003d0:	f006 fca0 	bl	10006d14 <i2c_slave_init>
