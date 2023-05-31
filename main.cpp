@@ -10,8 +10,11 @@
 #define I2C_SCL   1               // GP1 is used for SCL
 
 // Define the pins for each button
-#define BUTTON_PIN_COUNT 24
-const uint BUTTON_PINS[BUTTON_PIN_COUNT] = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 26, 27, 28 };
+//#define BUTTON_PIN_COUNT 24
+//const uint BUTTON_PINS[BUTTON_PIN_COUNT] = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 26, 27, 28 };
+#define BUTTON_PIN_COUNT 18
+
+const uint BUTTON_PINS[BUTTON_PIN_COUNT] = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 26, 27, 28, 29 };
 
 uint32_t buttonState = 0;
 uint32_t lastButtonState = 0;
@@ -47,9 +50,6 @@ static void i2c_slave_handler(i2c_inst_t* i2c, i2c_slave_event_t event) {
         }
         i2c_write_byte(i2c, context.mem[context.num]);
         context.num++;
-        //i2c_write_byte(i2c, context.mem[1]);
-        //i2c_write_byte(i2c, context.mem[2]);
-        //i2c_write_byte(i2c, context.mem[3]);
         break;
     case I2C_SLAVE_FINISH: // master has signalled Stop / Restart
         context.mem_address_written = false;
@@ -91,9 +91,17 @@ int main()
         gpio_pull_up(BUTTON_PINS[i]);
     }
 
+    uint32_t mask = 0xFFFFFFFF; // All bits are 1.
+
+    // Clear only the bits corresponding to BUTTON_PINS.
+    for (int i = 0; i < BUTTON_PIN_COUNT; ++i) {
+        mask &= ~(1U << BUTTON_PINS[i]);
+    }
+
     while (true)
     {
         buttonState = gpio_get_all();
+        buttonState = buttonState | mask;
 
         if (buttonState != lastButtonState)
         {
@@ -102,6 +110,7 @@ int main()
             context.mem[2] = (buttonState >> 16) & 0xff;
             context.mem[3] = (buttonState >> 24) & 0xff;
             lastButtonState = buttonState;
+
             // Add the following lines:
             // Print each bit one by one
             for (int i = 31; i >= 0; --i) {
@@ -111,9 +120,10 @@ int main()
             fflush(stdout);  // Make sure the output is printed immediately
         }
 
-        sleep_ms(500);
+        //sleep_ms(500);
 
     }
 
     return 0;
 }
+
