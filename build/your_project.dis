@@ -539,12 +539,12 @@ Disassembly of section .text:
 100004e0:	200018a0 	.word	0x200018a0
 100004e4:	10007730 	.word	0x10007730
 100004e8:	2000142c 	.word	0x2000142c
-100004ec:	fffeffff 	.word	0xfffeffff
-100004f0:	fffdffff 	.word	0xfffdffff
-100004f4:	00020100 	.word	0x00020100
-100004f8:	00010080 	.word	0x00010080
-100004fc:	00040200 	.word	0x00040200
-10000500:	fffbffff 	.word	0xfffbffff
+100004ec:	fffdffff 	.word	0xfffdffff
+100004f0:	fffbffff 	.word	0xfffbffff
+100004f4:	00040100 	.word	0x00040100
+100004f8:	00020080 	.word	0x00020080
+100004fc:	00080200 	.word	0x00080200
+10000500:	fff7ffff 	.word	0xfff7ffff
 
 10000504 <gpio_set_function>:
 10000504:	4a09      	ldr	r2, [pc, #36]	; (1000052c <gpio_set_function+0x28>)

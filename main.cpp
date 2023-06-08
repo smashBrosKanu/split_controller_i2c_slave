@@ -113,10 +113,10 @@ int main()
 
             // Set the (16+i)th bit to the value of the (6+i)th bit
             if (bit2 == 0) {
-                buttonState &= ~(1U << (16 + i));  // If bit is 0, clear the bit
+                buttonState &= ~(1U << (17 + i));  // If bit is 0, clear the bit
             }
             else {
-                buttonState |= (1U << (16 + i));  // If bit is 1, set the bit
+                buttonState |= (1U << (17 + i));  // If bit is 1, set the bit
             }
         }
 
